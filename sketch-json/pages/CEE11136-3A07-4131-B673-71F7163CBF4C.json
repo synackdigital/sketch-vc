@@ -137,10 +137,10 @@
           "isEnabled": true,
           "color": {
             "_class": "color",
-            "alpha": 0.15,
-            "blue": 0,
-            "green": 0.8,
-            "red": 1
+            "alpha": 1,
+            "blue": 0.1066960170865059,
+            "green": 0.007513228338211775,
+            "red": 0.816203773021698
           },
           "fillType": 0,
           "noiseIndex": 0,
