@@ -117,6 +117,20 @@
       "shouldBreakMaskChain": false,
       "style": {
         "_class": "style",
+        "borders": [{
+          "_class": "border",
+          "isEnabled": true,
+          "color": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "fillType": 0,
+          "position": 0,
+          "thickness": 11
+        }],
         "endDecorationType": 0,
         "fills": [{
           "_class": "fill",
